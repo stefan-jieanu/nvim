@@ -1,1 +1,1 @@
-My own nvim nvchad config.
+My own nvim nvchad config
